@@ -1,0 +1,19 @@
+form {
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.user {
+    float: left;
+    padding: 10px;
+}
+
+img {
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    padding-left: 20px;
+}
